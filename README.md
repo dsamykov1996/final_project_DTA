@@ -1,4 +1,7 @@
-# final_project_DTA
-final project DTA 
-SQL Запити : [Клік сюди](https://github.com/dsamykov1996/final_project_DTA/blob/main/f.Project_SQL)
-Tableu завдання: [Клік сюди](https://public.tableau.com/views/my_final_project_DTA/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+# Final Project DTA
+
+## SQL Запити
+SQL-запити для проекту можна переглянути тут: [Перейти до SQL](https://github.com/dsamykov1996/final_project_DTA/blob/main/f.Project_SQL)
+
+## Tableau Завдання
+Інтерактивний дашборд Tableau можна переглянути тут: [Відкрити Tableau Dashboard](https://public.tableau.com/views/my_final_project_DTA/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
