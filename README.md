@@ -1,7 +1,7 @@
 # Final Project DTA
 
 ## SQL Запити
-SQL-запити для проекту можна переглянути тут: [Перейти до SQL TEXT](https://github.com/dsamykov1996/final_project_DTA/blob/main/f.Project_SQL)
+SQL-запити для проекту можна переглянути тут: [Перейти до SQL TEXT](https://github.com/dsamykov1996/final_project_DTA/blob/main/f_Project_SQL.txt)
 [Перейти до SQL Results](https://github.com/dsamykov1996/final_project_DTA/blob/main/SQL_Tasks.md)
 
 ## Tableau Завдання
