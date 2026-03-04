@@ -10,3 +10,7 @@ SQL-запити для проекту можна переглянути тут:
 
 ## Tableau Завдання 2 дашборд
 Інтерактивний дашборд Tableau можна переглянути тут: [Відкрити Tableau Dashboard](https://public.tableau.com/views/dashboard_2_final_trying/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+## Презентація 
+Детальну презентацію можна переглянути тут: [Відкрити презентацію](https://www.canva.com/design/DAHC7-uDR3I/2Ryi0pLI6v_W8jYCMzOlyg/edit?utm_content=DAHC7-uDR3I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
